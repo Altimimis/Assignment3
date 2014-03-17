@@ -1,0 +1,128 @@
+html, body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    background-color: #C0C0C0;
+    color: black;
+    margin: 0;
+
+
+}
+
+h1 {
+
+    padding-left: 52px;
+   
+
+}
+
+h4 {
+
+    padding-left: 52px;
+
+}
+
+p {
+
+    color: #fff;
+    display: inline-block;
+}
+
+.video {
+
+    padding-left: 50px;
+    float:left;
+}
+
+.text {
+
+
+
+}
+
+.twatter {
+    float: right;
+
+
+}
+
+.jumbotron {
+
+    width: 800px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact {
+
+    margin-left: 00px;
+    margin-bottom: auto;
+    margin-top: auto;
+
+}
+
+.photostream  {
+        margin: 0 auto;
+        padding: 10px;
+        width: 1200px;
+
+}
+.photostream div, .options a {
+        
+}
+.photostream div {
+        float: left;
+        height: 280px;
+        overflow: hidden;
+        position: relative;
+        width: 280px;
+}
+.photostream img,  {
+        border-radius: 2px;
+}
+.photostream p, {
+        background: rgba(255, 255, 255, .2);
+}
+.photostream p {
+        background: rgba(255, 255, 255, .2);
+        bottom: -40px;
+        height: 20px;
+        line-height: 20px;
+        margin: 0;
+        overflow: hidden;
+        padding: 10px;
+        position: absolute;
+        text-overflow: ellipsis;
+        transition: bottom .5s;
+        white-space: nowrap;
+        width: 100%;
+}
+.photostrea div:hover p {
+        bottom: 0;
+}
+
+.table {
+ float: right;
+    width: 500px;
+    display: auto;
+   
+
+}
+.footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:10px;   /* Height of the footer */
+
+}
+
+.maps, h1 {
+    
+    margin:10px 0 10px 300px; 
+
+
+}
+
+
+
+
